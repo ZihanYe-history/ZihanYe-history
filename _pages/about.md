@@ -40,9 +40,22 @@ Create content & metadata
 For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
+Hello, I'm Zihan Y, a high school researcher passionate about modern European history.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Research Interests
+My research focuses on modern European history, Chinese history, and American history. By analyzing primary archives, oral history materials, and visual cultural sources, I explore the role of language in shaping human historical development.
+
+Research Journey
+2025 – Began systematic reading of literature on the Ewenki people, established a research framework, and received the Harvard Writing Award.
+2026 – Completed an article on the Ewenki people and developed a digital webpage to facilitate
+dissemination and accessibility.
+
+Methodology
+I believe historical research requires integrating digital humanities tools for dissemination and preservation, while also centering the voices of marginalized groups and grassroots perspectives.
+
+Contact
+Feel free to reach out to me via email: s24512@ykpaoschool.cn
+
 
 How to edit your site's GitHub repository
 ------
